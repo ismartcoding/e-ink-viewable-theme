@@ -1,7 +1,7 @@
 {
     "version": "1.0",
     "manifest_version": 3,
-    "name": "Ink Vision",
+    "name": "E-ink Viewable",
     "theme": {
       "colors" : {
         "frame" : [255, 255, 255],
