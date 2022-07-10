@@ -1,6 +1,6 @@
 # E-ink Viewable Theme
 
-A theme to make the Chrome has better view in ink screen.
+A theme to make Chrome viewable in e-ink screen.
 
 ## How to use
 

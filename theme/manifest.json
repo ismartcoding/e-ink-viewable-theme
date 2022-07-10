@@ -2,6 +2,7 @@
     "version": "1.0",
     "manifest_version": 3,
     "name": "E-ink Viewable",
+    "description": "Make Chrome viewable in e-ink screen.",
     "theme": {
       "colors" : {
         "frame" : [255, 255, 255],
